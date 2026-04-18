@@ -1,0 +1,9 @@
+{
+    "name": "actions-practice",
+    "version":"1.0.0",
+    "scripts": {
+        "test": "echo 'test passed!'",
+        "lint": "echo 'linked passed!'",
+        "build": "echo 'build completed!'"
+    }
+}
